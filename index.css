@@ -1,11 +1,6 @@
 .menu {
-  font-family: 'Roboto', sans-serif;
-  text-align: left;
-  text-transform: uppercase;
-  line-height: 16px;
-  letter-spacing: 2px;
-  color: black;
-  font-size: 14px;
-  padding-left: 15px;
-  border-left: 2px solid #b99d61;
+ background-color: #FFEE00;
+  max-width: 25%;
+  min-width: 140px;
+  flex: 1;
 }
