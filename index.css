@@ -2,11 +2,11 @@
    margin: 0;
   padding: 0;
   list-style-type: none;
-  width: 1000px;
+  width: 200px;
 }
 
 .text {
-   width: 10000px;
+   width: 300px;
     border: 1px solid red;
     margin: auto;
 }
