@@ -6,5 +6,7 @@
 }
 
 .text {
-   text-align:centr;
+   width: 100px;
+    border: 1px solid red;
+    margin: auto;
 }
